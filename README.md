@@ -5,7 +5,7 @@
 
 <p align="center"> Contact Me: <a href="mailto:paysonholmes@gmail.com">Email</a> or <a href="https://discord.gg/z2ABZ5dKBp">Discord</a></p>
 
-- Founder of [BSNR](bsnr.pages.dev) and OG Founder of BSZN I dont have a website
+- Founder of [BSNR](bsnr.pages.dev) and OG Founder of BSNR I dont have a website
 - I’m currently learning **Kernel (Drivers)**
 
 - I'm a really good cheat dev
